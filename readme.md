@@ -1,1 +1,2 @@
-# Taller 01 - Top Musical
+# Taller 01 - Cambio de Título
+![Captura del Título](Titulo.png)
