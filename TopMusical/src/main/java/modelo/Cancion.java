@@ -99,5 +99,4 @@ public class Cancion implements Comparable<Cancion> {
     public int compareTo(Cancion o) {
         return posActual - o.posActual;
     }
-
 }
