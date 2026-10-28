@@ -1,5 +1,5 @@
-# Taller 01 - Cambio de Orden
-![Captura del Orden](Orden.png)
-
-# Taller 01 - Top Musical
+# Taller 01 - Cambio de Título
 ![Captura del Título](Titulo.png)
+
+
+
