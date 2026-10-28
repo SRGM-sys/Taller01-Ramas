@@ -1,2 +1,6 @@
-# Taller 01 - Cambio de Orden
-![Captura del Orden](Orden.png)
+# Taller 01 - Cambio Artista
+
+## Integrante 3
+
+![Captura Del Artista](TopMusical/img/captura_artista.png)
+
